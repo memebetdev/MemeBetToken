@@ -1,0 +1,1 @@
+# MEMEBET Token contract
